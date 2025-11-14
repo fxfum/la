@@ -25,3 +25,4 @@ void main()
 	printf("Меньше число = %d\n", min);
 
 }
+//gfkjsglkhlkassdf
